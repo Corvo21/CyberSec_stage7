@@ -46,8 +46,8 @@ cryptography==41.0.0
 ## 3. Installation instructions - How to run
 
 **Prerequisite:** In case of needing to run virtual Python environment, run these command first:
-`python3 -m venv venv`
-`source venv/bin/activate`
+a.`python3 -m venv venv`
+b.`source venv/bin/activate`
 
 1. **Install dependencies:** `pip install -r requirements.txt`
 2. **Start the Bot:** `python3 bot.py`
@@ -159,3 +159,4 @@ docker-compose run controller
 docker-compose down
 
 ```
+
